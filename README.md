@@ -3,7 +3,7 @@
 <image src=https://github.com/FireDrop6000/MyFirefoxCSS/blob/main/Screenshots/20230826_12h27m35s_grim.png align=left height=280 width=500 hspace=5>
 <h2><b>A few prerequisites:</b></h2>
 <ul align=left>
-  <li>Search <b>about:config</b> on FIrefox and toggle this option to <i>true</i> if you haven't already.<br><b>toolkitLegacyUser<br>ProfileCustomizations.<br>stylesheets</b></li>
+  <li>Search <b>about:config</b> on FIrefox and toggle this option to <i>true</i> if you haven't already.<br><b>toolkitLegacyUserProfile<br>Customizations.stylesheets</b></li>
   <li>Search <b>about:profiles</b> on Firefox, find your profile and head over to the <i>Root directory.</i></li>
   <li>Search for a certain <b>Chrome</b> directory containing files <i>userChrome.css & userContent.css.</i><br><i>If you cannot find one then create the directory and the files manually.</i></li>
 </ul>
