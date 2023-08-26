@@ -1,0 +1,33 @@
+/* Sets the background color for the new homepage */
+@-moz-document url(about:blank), url(about:newtab), url(about:home), url(about:privatebrowsing){
+  body{
+    background-color: #1c1b22 !important;
+  }
+}
+
+/* Get rid of the BIG Firefox logo and wordmark as well as the searchbar in the middle */
+@-moz-document url(about:newtab), url(about:home){
+  .logo-and-wordmark{
+    display: none !important;
+  }
+  .search-wrapper {
+    display: none !important;
+  }
+  
+}
+
+/* !!!PLEASE INSTALL TABLISS BEFORE MOVING ON TO THIS PART!!! */
+/* Get rid of the Unsplash credit */
+.credit {
+  display: none !important;
+}
+
+/* Get rid of the overlay buttons */
+.Overlay svg {
+  display: none;
+}
+
+/* Only show settings button on hover */
+.Overlay:hover svg {
+  display: initial !important;
+}
