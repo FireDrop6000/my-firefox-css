@@ -1,4 +1,4 @@
-<h2 align='center'>MyFirefoxCSS</h2>
+<h2 align='center'>My Firefox CSS</h2>
 <h1 align='center'>One Liner Fox</h1>
 <image src=https://github.com/FireDrop6000/MyFirefoxCSS/blob/main/Screenshots/20230826_12h27m35s_grim.png align=left height=280 width=500 hspace=5>
 <h2><b>A few prerequisites:</b></h2>
